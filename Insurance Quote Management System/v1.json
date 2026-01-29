@@ -156,7 +156,7 @@
             "showViewerNavigation": true,
             "homePageId": "fc0150f5-fec8-4a1e-b43c-ee9df7a00558",
             "appId": "200cf44b-9e90-476b-bb8a-b35bc6d9efdf",
-            "currentEnvironmentId": "b79c0d31-70ed-4d54-8454-df54ec7d7bd2",
+            "currentEnvironmentId": "eba85ba6-540f-44a9-8b2e-1f331e25568c",
             "promotedFrom": null,
             "parentVersionId": null,
             "status": "PUBLISHED",
@@ -164,7 +164,7 @@
             "publishedAt": null,
             "releasedAt": null,
             "createdAt": "2026-01-26T13:15:21.319Z",
-            "updatedAt": "2026-01-29T12:00:25.498Z"
+            "updatedAt": "2026-01-29T12:14:16.265Z"
           },
           "components": [
             {
@@ -19146,7 +19146,7 @@
               "showViewerNavigation": true,
               "homePageId": "fc0150f5-fec8-4a1e-b43c-ee9df7a00558",
               "appId": "200cf44b-9e90-476b-bb8a-b35bc6d9efdf",
-              "currentEnvironmentId": "b79c0d31-70ed-4d54-8454-df54ec7d7bd2",
+              "currentEnvironmentId": "eba85ba6-540f-44a9-8b2e-1f331e25568c",
               "promotedFrom": null,
               "parentVersionId": null,
               "status": "PUBLISHED",
@@ -19154,7 +19154,7 @@
               "publishedAt": null,
               "releasedAt": null,
               "createdAt": "2026-01-26T13:15:21.319Z",
-              "updatedAt": "2026-01-29T12:00:25.498Z"
+              "updatedAt": "2026-01-29T12:14:16.265Z"
             }
           ],
           "appEnvironments": [
